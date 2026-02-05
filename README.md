@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--# 💫 About Me:
-I’m a Computer Science engineering student passionate <br>about software development, problem-solving, and building<br> real-world applications. Currently, I’m working on improving<br> my DSA and coding skills while exploring web development<br> and AI/ML-based solutions through hands-on projects.<br> I enjoy learning by building, experimenting with ideas, and<br> turning concepts into working products. I’m actively looking<br> to collaborate or co-found projects with like-minded <br>developers who are interested in creating impactful tech <br>solutions, especially in areas like AI/ML, agri-tech, and <br>healthcare. You can ask me about data structures, project<br> development, or learning strategies, and a fun fact about<br> me is that I often enjoy debugging code more than writing<br> it because that’s where real learning happens.
+I’m a Computer Science engineering student passionate <br>about software development, problem-solving, and building<br> real-world applications. Currently, I’m working on improving<br> my DSA and coding skills while exploring web development<br> and AI/ML-based solutions through hands-on projects.<br> I enjoy learning by building, experimenting with ideas, and<br> turning concepts into working products. I’m actively looking<br> to collaborate or co-found projects with like-minded <br>developers who are interested in creating impactful tech <br>solutions, especially in areas like AI/ML, agri-tech, and <br>healthcare. You can ask me about data structures, project<br> development, or learning strategies, and a fun fact about<br> me is that I often enjoy debugging code more  than writing<br> it because that’s where real learning happens.
 
 
 ## 🌐 Socials:
@@ -12,22 +12,11 @@ I’m a Computer Science engineering student passionate <br>about software devel
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pooja-m-28 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pooja-m-28 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-m-28 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-m-28 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pooja-m-28 &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-**pooja-m-28/pooja-m-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
