@@ -1,5 +1,4 @@
-# 💫 About Me:
-I’m a Computer Science engineering student passionate <br>about software development, problem-solving, and building<br> real-world applications. Currently, I’m working on improving<br> my DSA and coding skills while exploring web development<br> and AI/ML-based solutions through hands-on projects.<br> I enjoy learning by building, experimenting with ideas, and<br> turning concepts into working products. I’m actively looking<br> to collaborate or co-found projects with like-minded <br>developers who are interested in creating impactful tech <br>solutions, especially in areas like AI/ML, agri-tech, and <br>healthcare. You can ask me about data structures, project<br> development, or learning strategies, and a fun fact about<br> me is that I often enjoy debugging code more than writing<br> it because that’s where real learning happens.
+
 
 
 ## 🌐 Socials:
